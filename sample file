@@ -1,0 +1,24 @@
+#include<stdio.h>
+main()
+{
+    int a=1, b=2, c=3;
+    if a>b;
+    {
+        if b>c;
+        printf("a is max");
+    } 
+    if a<b;
+    {
+        if b<c;
+        printf("a smallest");
+    }
+    if b>c;
+    {
+        if c>a;
+        printf("b max");
+            }
+    {
+        if c<a;
+        printf("b is med");
+    }
+}
